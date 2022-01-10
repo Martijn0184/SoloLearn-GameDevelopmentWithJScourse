@@ -1,0 +1,11 @@
+body {
+    padding-top: 8%;
+    width: 70%;
+    margin: auto;
+}
+
+#canvas {
+    width: 100%;
+    border: 1px solid black;
+}
+
